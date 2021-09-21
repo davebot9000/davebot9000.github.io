@@ -1,0 +1,19 @@
+{
+  "name": "@davebot900/kg",
+  "version": "0.0.1",
+  "description": "A tech knowledge garden.. yep..",
+  "main": "index.js",
+  "authors": {
+    "name": "David Reese",
+    "email": "davepaulreese@gmail.com"
+  },
+  "repository": "git@github.com:davebot9000/davebot9000.github.io.git/@davebot900/kg",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
